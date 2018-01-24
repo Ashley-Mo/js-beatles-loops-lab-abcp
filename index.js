@@ -16,6 +16,7 @@ function johnLennonFacts(facts){
     array.push(facts[i] +"!!!");
   }
   return array;
+<<<<<<< HEAD
 }
 
 function iLoveTheBeatles(n){
@@ -30,4 +31,6 @@ function iLoveTheBeatles(n){
   }return array;
   }
   
+=======
+>>>>>>> 91ea27461181488626e52fe41d086da1ad92f028
 }
